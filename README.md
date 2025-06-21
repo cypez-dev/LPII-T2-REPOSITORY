@@ -81,6 +81,7 @@ Se realizaron commits con:
 -> Finalmente, se hizo un Pull Request hacia la rama main.
 
 👨‍💻 Autor
-José Edinson
-Estudiante de Computación e Informática - Cibertec
-GitHub: @cypez-dev
+-> Chati Carrillo José Edinson
+-> Sanchez salvatierra manuel
+Estudiantes de Computación e Informática - Cibertec
+
